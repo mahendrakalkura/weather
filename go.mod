@@ -1,3 +1,3 @@
-module main
+module weather
 
 go 1.26
